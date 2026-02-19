@@ -11,8 +11,8 @@ id = "2965cfd9b6174ad6abfd301201b9ebf2"
 
 
 
-[build]
-command = "cargo install -q worker-build && worker-build --release"
+#[build]
+#command = "cargo install -q worker-build && worker-build --release"
 
 [env.dev]
 build = { command = "cargo install -q worker-build && worker-build --dev" }
