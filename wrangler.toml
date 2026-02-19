@@ -22,9 +22,9 @@ build = { command = "cargo install -q worker-build && worker-build --dev" }
 #UUID = "0fbf4f81-2598-4b6a-a623-0ead4cb9efa8"
 UUID = "0fbf4f81-2598-4b6a-a623-0ead4cb9efa8"
 #, "aaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1", "00000000-0000-0000-0000-000000000000"]
-MAIN_PAGE_URL = "https://raw.githubusercontent.com/kcepu877/bot/refs/heads/main/index.html"
-SUB_PAGE_URL = "https://raw.githubusercontent.com/kcepu877/bot/refs/heads/main/sub.html"
-LINK_PAGE_URL = "https://raw.githubusercontent.com/kcepu877/bot/refs/heads/main/link.html"
+MAIN_PAGE_URL = "https://raw.githubusercontent.com/epank877/next/refs/heads/master/web/index.html"
+SUB_PAGE_URL = "https://raw.githubusercontent.com/epank877/next/refs/heads/master/web/sub.html"
+LINK_PAGE_URL = "https://raw.githubusercontent.com/epank877/next/refs/heads/master/web/link.html"
 
 [[routes]]
 pattern = "dng-google.agenmurah.xyz"
